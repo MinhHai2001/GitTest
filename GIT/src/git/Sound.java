@@ -13,4 +13,5 @@ import java.lang.reflect.Method;
  */
 public interface Sound {
     abstract String Say();
+return"hello";
 }
